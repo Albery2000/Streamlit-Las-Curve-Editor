@@ -21,9 +21,17 @@
 1. **Clone the repository**:  
    ```bash
    git clone https://github.com/Albery2000/Streamlit-Las-Curve-Editor.git
-   cd las-curve-standardizer
+   cd Las File Editor
    
 2. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
  
+3. **Run the Application**:
+   ```bash
+   streamlit run Las File Editor.py
+
+## Contact Information
+If you have any questions or need help with the project, feel free to reach out!
+
+Email: hassan.gamal.alberry@gmail.com
