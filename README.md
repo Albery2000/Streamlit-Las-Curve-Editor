@@ -20,7 +20,7 @@
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/your-username/las-curve-standardizer.git
+   git clone https://github.com/Albery2000/Streamlit-Las-Curve-Editor.git
    cd las-curve-standardizer
    
 2. **Install Dependencies**:
